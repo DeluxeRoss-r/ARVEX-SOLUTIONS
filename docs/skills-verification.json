@@ -1,0 +1,119 @@
+{
+  "codexVersion": "0.163.0",
+  "method": "skills/list",
+  "params": {
+    "forceReload": true
+  },
+  "isolatedTemporaryCodexHome": true,
+  "errors": [],
+  "skills": [
+    {
+      "name": "animate",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/animate/SKILL.md"
+    },
+    {
+      "name": "animate-expo",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/animate-expo/SKILL.md"
+    },
+    {
+      "name": "animation-performance",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/animation-performance/SKILL.md"
+    },
+    {
+      "name": "animation-vocabulary",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/animation-vocabulary/SKILL.md"
+    },
+    {
+      "name": "apple-design",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/apple-design/SKILL.md"
+    },
+    {
+      "name": "ask-sonner",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/ask-sonner/SKILL.md"
+    },
+    {
+      "name": "break-ui",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/break-ui/SKILL.md"
+    },
+    {
+      "name": "design-taste-frontend",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/design-taste-frontend/SKILL.md"
+    },
+    {
+      "name": "emil-design-eng",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/emil-design-eng/SKILL.md"
+    },
+    {
+      "name": "find-animation-opportunities",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/find-animation-opportunities/SKILL.md"
+    },
+    {
+      "name": "impeccable",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/impeccable/SKILL.md"
+    },
+    {
+      "name": "improve-animations",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/improve-animations/SKILL.md"
+    },
+    {
+      "name": "mobile-native",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/mobile-native/SKILL.md"
+    },
+    {
+      "name": "pick-ui-library",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/pick-ui-library/SKILL.md"
+    },
+    {
+      "name": "prototype",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/prototype/SKILL.md"
+    },
+    {
+      "name": "remove-animations",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/remove-animations/SKILL.md"
+    },
+    {
+      "name": "review-animations",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/review-animations/SKILL.md"
+    },
+    {
+      "name": "write-swift",
+      "enabled": true,
+      "scope": "repo",
+      "path": ".agents/skills/write-swift/SKILL.md"
+    }
+  ]
+}

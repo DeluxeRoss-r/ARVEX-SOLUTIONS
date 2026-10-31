@@ -1,0 +1,47 @@
+{
+  "installers": {
+    "impeccable": "4.8.0",
+    "skills": "1.7.4"
+  },
+  "sources": [
+    {
+      "repository": "pbakaus/impeccable",
+      "commit": "df3a4abe7d0840d5f60324812c432e00b66a4e75",
+      "sourcePath": ".agents/skills/impeccable",
+      "skills": [
+        "impeccable"
+      ]
+    },
+    {
+      "repository": "Leonxlnx/taste-skill",
+      "commit": "12af471f627f866411b4bd785b19646d3672784c",
+      "sourcePath": "skills/taste-skill",
+      "skills": [
+        "design-taste-frontend"
+      ]
+    },
+    {
+      "repository": "emilkowalski/skills",
+      "commit": "a81dbca07f2217b7103e510c0f13f8d5b017afc9",
+      "sourcePath": "skills",
+      "skills": [
+        "animate",
+        "animate-expo",
+        "animation-performance",
+        "animation-vocabulary",
+        "apple-design",
+        "ask-sonner",
+        "break-ui",
+        "emil-design-eng",
+        "find-animation-opportunities",
+        "improve-animations",
+        "mobile-native",
+        "pick-ui-library",
+        "prototype",
+        "remove-animations",
+        "review-animations",
+        "write-swift"
+      ]
+    }
+  ]
+}
