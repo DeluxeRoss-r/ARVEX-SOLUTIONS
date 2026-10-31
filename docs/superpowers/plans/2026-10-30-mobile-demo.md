@@ -8,6 +8,6 @@ Architecture: React/Vite, estado demo versionado en localStorage, cálculos en c
 - [x] Implementar shell accesible, login, gráficos y pantallas con componentes reutilizables; navegación móvil y escritorio.
 - [x] Probar ventas, inventario, filtros, clientes, configuración, persistencia y cambio de sucursal con Playwright, además de accesibilidad y overflow en móvil/tablet/escritorio.
 - [x] Compilar y ejecutar el detector de Impeccable, revisar capturas y corregir defectos.
-- [ ] Publicar rama y preparar PR; intentar vista HTTPS solo con conexión y credenciales existentes, informar cualquier bloqueo exacto.
+- [x] Publicar rama y preparar texto/enlace de PR. Creación automática bloqueada por API GitHub Forbidden. Vercel sin conexión/credencial: configuración Preview y pasos exactos listos en docs/DEMO.md; despliegue HTTPS pendiente externo.
 
 Review focus: cantidades fuera de stock; carrito al cambiar sucursal; localStorage no disponible o corrupto; teclado y foco en móvil; dobles pulsaciones al vender. El alcance es una demo, no seguridad multiempresa real.
